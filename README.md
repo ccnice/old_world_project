@@ -34,4 +34,4 @@ basic project outline:
 | *Idas Alaska | Tok| AK | tok | 14 |
 | *Idas Alaska | Tolvana Creek| AK | tol | 8 |
 | `Total` | |  | | `821` (742 w/o P. argus)|
-| `Total for Phylogenetics` | |  | | `821` (742 w/o P. argus)|
+| `Total for Phylogenetics` | |  | | `624`|
