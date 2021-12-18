@@ -36,3 +36,10 @@ basic project outline:
 | Idas Alaska | Tok| AK | tok | 14 |
 | Idas Alaska | Tolvana Creek| AK | tol | 8 |
 | `Total` | |  | | `854` (742 w/o P. argus)|
+
+18xii21
+Assembly using bwa mem to dovetail_pacbio Lycaeides reference
+
+
+
+
