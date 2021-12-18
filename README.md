@@ -8,7 +8,7 @@ basic project outline:
 
 | Group | Location | State | Code | n |
 |-------|----------|-------|------|---|
-| *old world| Europe /  Asia|  | various | 367|
+| *old world| Europe /  Asia|  | various | 367 (79 P. argus)|
 | *Karner | Fort McCoy | WI | fmc | 23 |
 | Karner | Saratoga Springs | NY | ssn | 19 |
 | *Anna | Leek Springs | CA | lks | 20 |
@@ -33,4 +33,5 @@ basic project outline:
 | *Idas Alaska | Spruce Barley| AK | sbw | 20 |
 | *Idas Alaska | Tok| AK | tok | 14 |
 | *Idas Alaska | Tolvana Creek| AK | tol | 8 |
-| `Total` | |  | | `821` |
+| `Total` | |  | | `821` (742 w/o P. argus)|
+| `Total for Phylogenetics` | |  | | `821` (742 w/o P. argus)|
