@@ -33,3 +33,4 @@ basic project outline:
 | *Idas Alaska | Spruce Barley| AK | sbw | 20 |
 | *Idas Alaska | Tok| AK | tok | 14 |
 | *Idas Alaska | Tolvana Creek| AK | tol | 8 |
+| 'Total' | |  | | '821' |
