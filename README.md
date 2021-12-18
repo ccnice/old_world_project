@@ -8,7 +8,7 @@ basic project outline:
 
 | Group | Location | State | Code | n |
 |-------|----------|-------|------|---|
-| old world| Europe /  Asia|  | various | 367|
+| *old world| Europe /  Asia|  | various | 367|
 | Karner | Fort McCoy | WI | fmc | 23 |
 | Karner | Saratoga Springs | NY | ssn | 19 |
 | Anna | Leek Springs | CA | lks | 20 |
