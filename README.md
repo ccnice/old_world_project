@@ -28,7 +28,7 @@ basic project outline:
 | Melissa Rockies | Lander| WY | lan | 23 |
 | Melissa Rockies | Yellow Pine CG| WY | ywp | 16 |
 | Melissa East | Brandon| SD | bsd | 18 |
-| Melissa East | Montague| CA | mtu | 22 (subset of 39 total) |
+| Melissa East | Montague| CA | mtu | 20 (all from 2017, not 2007) |
 | Melissa West | Verdi Crystal Peak Park| NV | vcp | 20 (subset of 72 total) |
 | Melissa West | Deer Mountain Rd.| NV | der | 20 (subset of 25 total) |
 | Idas Alaska | Nolan Rd.| AK | nol | 8 |
