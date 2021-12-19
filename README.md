@@ -41,6 +41,7 @@ basic project outline:
 
 Assembly using bwa mem to dovetail_pacbio Lycaeides reference
 
+```
 > table(substr(dat$V1,1,3))
 
 alk alq arg arm aze azo bcr bie big bka bkm bsd btb bul byj cdv cer cga chp cji 
@@ -55,5 +56,7 @@ nie nkk nol npi ops ore oro par pdb pdr pds pmt pzo rad rpa rrm sbm sbt sbw sck
   4  10   8   1   1   6   1  10   5   1  10   1   1   1  22  23  10   2  20   2 
 shl sod spb spi srd ssn stb tas tkk tok tol uka upi ups upy vcp vel ybg ywp 
   1   1   4  10   2  19  17  10  10  14   8   1   1   1   2  20   1  19  16 
+
+```
 
 
