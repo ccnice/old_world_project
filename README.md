@@ -58,5 +58,9 @@ shl sod spb spi srd ssn stb tas tkk tok tol uka upi ups upy vcp vel ybg ywp
   1   1   4  10   2  19  17  10  10  14   8   1   1   1   2  20   1  19  16 
 
 ```
-
+```
+11.24
+chris@anna:/Volumes/storage_a1/Parsed_reads_storage/all_the_fastqs$ perl runbwa_mem_forks_list_pacbio_OW.pl FINAL_OWlist.txt &
+[1] 207046
+```
 
