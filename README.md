@@ -19,7 +19,7 @@ basic project outline:
 | Nabokovi | Sawbill| MN | sbm | 10 |
 | Ricei | Big Lake| OR | big | 18 |
 | Ricei | Chinook Pass| WA | chp | 24 |
-| Jackson Hybrids | Blacktail Butte| WY | byb | 20 (subset of 44 total) |
+| Jackson Hybrids | Blacktail Butte| WY | btb | 20 (subset of 44 total) |
 | Jackson Hybrids | Bull Creek| WY | bcr | 20 (subset of 39 total) |
 | Whites/Sierra Hybrids | Carson Pass| CA | csp | 20 (subset of 48 total) |
 | Whites/Sierra Hybrids | County Line Hill| CA | clh | 20 (subset of 40 total) |
