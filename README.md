@@ -35,12 +35,25 @@ basic project outline:
 | Idas Alaska | Spruce Barley| AK | sbw | 20 |
 | Idas Alaska | Tok| AK | tok | 14 |
 | Idas Alaska | Tolvana Creek| AK | tol | 8 |
-| `Total` | |  | | `854` (742 w/o P. argus)|
+| `Total` | |  | | `852` (773 w/o P. argus)|
 
 19xii21
 
 Assembly using bwa mem to dovetail_pacbio Lycaeides reference
 
+> table(substr(dat$V1,1,3))
 
+alk alq arg arm aze azo bcr bie big bka bkm bsd btb bul byj cdv cer cga chp cji 
+  1   1   2  10   1   5  20   1  18   3  20  18  20   2   1  17   1   2  24  10 
+clh cma cpq csp cwd cze der dja dvu edc egp elb elz erb erm fcg fcl fmc fvi fvy 
+ 20   7   1  20  25   2  20   1   2   1  20   8   1   5  11  10   1  23   1   1 
+gen gru gsk gua hod ias ica iip ilm imo ira iro ise jas jav jpa kal kam kha khm 
+  4   1   1   1   1   5   1   1   1   1   2   1   3   1   1   1   3   1   4   1 
+kii kit kpc kpn kpr kpu kra ktm kun lan lau ldv lks lpi lss lzk men mnk mtu muk 
+  1  13   1   1   1   1   1   9   3  23  20  10  20   1   9   7  12   1  20  10 
+nie nkk nol npi ops ore oro par pdb pdr pds pmt pzo rad rpa rrm sbm sbt sbw sck 
+  4  10   8   1   1   6   1  10   5   1  10   1   1   1  22  23  10   2  20   2 
+shl sod spb spi srd ssn stb tas tkk tok tol uka upi ups upy vcp vel ybg ywp 
+  1   1   4  10   2  19  17  10  10  14   8   1   1   1   2  20   1  19  16 
 
 
