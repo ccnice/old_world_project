@@ -16,7 +16,7 @@ basic project outline:
 | Idas | Cottonwood Divide| WA | cwd | 25 |
 | Idas | Strawberry Mts.| OR | stb | 17 |
 | Nabokovi | Railroad| MN | rrm | 23 |
-| Nabokovi | Sawbill| MN | rrm | 10 |
+| Nabokovi | Sawbill| MN | sbm | 10 |
 | Ricei | Big Lake| OR | big | 18 |
 | Ricei | Chinook Pass| WA | chp | 24 |
 | Jackson Hybrids | Blacktail Butte| WY | byb | 20 (subset of 44 total) |
