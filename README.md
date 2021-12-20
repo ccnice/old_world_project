@@ -63,4 +63,11 @@ shl sod spb spi srd ssn stb tas tkk tok tol uka upi ups upy vcp vel ybg ywp
 chris@anna:/Volumes/storage_a1/Parsed_reads_storage/all_the_fastqs$ perl runbwa_mem_forks_list_pacbio_OW.pl FINAL_OWlist.txt &
 [1] 207046
 ```
+DONE 23.42
 
+####### 20xii21
+```
+11.00
+chris@anna:/Volumes/storage_a1/Parsed_reads_storage/all_the_fastqs$ perl runbwa_mem_forks_Z_list_pacbio_OW.pl FINAL_OWlist.txt &
+[1] 244722
+```
