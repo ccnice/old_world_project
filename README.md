@@ -71,3 +71,11 @@ DONE 23.42
 chris@anna:/Volumes/storage_a1/Parsed_reads_storage/all_the_fastqs$ perl runbwa_mem_forks_Z_list_pacbio_OW.pl FINAL_OWlist.txt &
 [1] 244722
 ```
+DONE 16.25
+moved to data_a3
+
+############ 21xii21
+8.59
+chris@anna:/Volumes/data_a3/oldWorld/varCall/autosomes$ perl /Volumes/programs/scripts/sam2bam.pl *.sam &
+[1] 287845
+
