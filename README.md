@@ -78,4 +78,10 @@ moved to data_a3
 8.59
 chris@anna:/Volumes/data_a3/oldWorld/varCall/autosomes$ perl /Volumes/programs/scripts/sam2bam.pl *.sam &
 [1] 287845
+DONE 11.38
+
+rm *.sam
+14.38 
+chris@anna:/Volumes/data_a3/oldWorld/varCall/Zchromosome$ perl /Volumes/programs/scripts/sam2bam.pl *.sam &
+[1] 297192
 
