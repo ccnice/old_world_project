@@ -76,12 +76,30 @@ moved to data_a3
 
 ############ 21xii21
 8.59
+```
 chris@anna:/Volumes/data_a3/oldWorld/varCall/autosomes$ perl /Volumes/programs/scripts/sam2bam.pl *.sam &
 [1] 287845
+```
 DONE 11.38
-
+```
 rm *.sam
+```
 14.38 
+```
 chris@anna:/Volumes/data_a3/oldWorld/varCall/Zchromosome$ perl /Volumes/programs/scripts/sam2bam.pl *.sam &
 [1] 297192
+```
+DONE 16.56
+###### 22xi21
+Variant calling
+9.53
+```
+chris@anna:/Volumes/data_a3/oldWorld/varCall/autosomes$ bcftools mpileup -d 8000 -o out1.bcf -O b -I -f /Volumes/data_a1/melissaGenomes/pacbio_dovetail_reference/autosomes_unassigned_Lmel_dovetailPacBio_genome.fasta aln*sorted.bam &
+[1] 308611
+```
 
+9.57
+```
+chris@anna:/Volumes/data_a3/oldWorld/varCall/Zchromosome$ bcftools mpileup -d 8000 -o out1.bcf -O b -I -f /Volumes/data_a1/melissaGenomes/pacbio_dovetail_reference/scaff1631_Z_pacbio.fasta aln*sorted.bam &
+[1] 308787
+```
