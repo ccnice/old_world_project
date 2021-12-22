@@ -92,6 +92,7 @@ chris@anna:/Volumes/data_a3/oldWorld/varCall/Zchromosome$ perl /Volumes/programs
 DONE 16.56
 ###### 22xi21
 Variant calling
+
 9.53
 ```
 chris@anna:/Volumes/data_a3/oldWorld/varCall/autosomes$ bcftools mpileup -d 8000 -o out1.bcf -O b -I -f /Volumes/data_a1/melissaGenomes/pacbio_dovetail_reference/autosomes_unassigned_Lmel_dovetailPacBio_genome.fasta aln*sorted.bam &
