@@ -104,3 +104,12 @@ chris@anna:/Volumes/data_a3/oldWorld/varCall/autosomes$ bcftools mpileup -d 8000
 chris@anna:/Volumes/data_a3/oldWorld/varCall/Zchromosome$ bcftools mpileup -d 8000 -o out1.bcf -O b -I -f /Volumes/data_a1/melissaGenomes/pacbio_dovetail_reference/scaff1631_Z_pacbio.fasta aln*sorted.bam &
 [1] 308787
 ```
+DONE 17.56
+
+
+18.06
+```
+chris@anna:/Volumes/data_a3/oldWorld/varCall/Zchromosome$ bcftools call -c -V indels -v -p 0.05 -P 0.001 -o variants.vcf out1.bcf &
+[1] 314746
+```
+DONE 19.47
